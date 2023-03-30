@@ -6,17 +6,17 @@ A website to customize a music playlist that match the current weather in user's
 ## Screenshot
 
 Home page - before login to Spotify
-<img src="/assets/images/homepage.png"/>
+<img src="/src/assets/images/homepage.png"/>
 
 Home page - after login to Spotify
-<img src="/assets/images/homepage2.png"/>
+<img src="/src/assets/images/homepage2.png"/>
 
 Weather Checking: 
-<img src="/assets/images/weather.png"/>
+<img src="/src/assets/images/weather.png"/>
 
 
 Playlist Recommendation:
-<img src="/assets/images/playlist.png"/>
+<img src="/src/assets/images/playlist.png"/>
 
 
 ## Deployed Link
