@@ -2,7 +2,7 @@ import React from "react";
 import "./style.css";
 import Header from "../components/Header";
 import Hero from "../components/hero";
-import SpotifyApi from "../utils/spotify-api";
+import { Link } from 'react-router-dom';
 
 const Home = () =>{
 return <div>
@@ -18,7 +18,11 @@ return <div>
         <p>
            Let's create a music playlist that matches the weather.
         </p>
-        <SpotifyApi/>
+    
+        <Link to="Questions">
+        <button>Start</button>
+        </Link>
+    
     </div>
     </div>
 </div>
