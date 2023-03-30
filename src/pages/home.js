@@ -18,17 +18,11 @@ return <div>
         <p>
            Let's create a music playlist that matches the weather.
         </p>
-<<<<<<< HEAD
+
         <Link to="Questions">
         <button>Start</button>
         </Link>
-=======
-    
-        <Link to="Questions">
-        <button>Start</button>
-        </Link>
-    
->>>>>>> b15a83e192d753ee7df6dadd0389b2be531c3ab2
+
     </div>
     </div>
 </div>
