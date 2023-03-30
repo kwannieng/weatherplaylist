@@ -26,3 +26,4 @@ P.S. Since the site is deployed by netlify, my project contains some node.js tha
 https://github.com/kwannieng/weather-playlist-2.git
 
 ## Presentation slide
+https://drive.google.com/file/d/17MmcZgZoHaiWsZE3pdCo6gOUNXh-Vbxc/view?usp=share_link
