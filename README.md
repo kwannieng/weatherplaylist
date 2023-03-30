@@ -12,7 +12,7 @@ Home page - after login to Spotify
 <img src="/src/assets/images/homepage2.png"/>
 
 Weather Checking: 
-<img src="/src/assets/images/weather.png"/>
+<img src="/src/assets/images/weathercheck.png"/>
 
 
 Playlist Recommendation:
